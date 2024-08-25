@@ -1,0 +1,9 @@
+{
+	"name": "mf-adf-test1",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "269c25aa-6370-4cfc-9ace-802bfdcd80a6",
+		"tenantId": "244f4738-5229-4048-8e1c-8ec93ec560cc"
+	}
+}
